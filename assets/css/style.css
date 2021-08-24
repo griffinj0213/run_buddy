@@ -223,7 +223,7 @@ section {
     height: 400px;
 }
 .contact-info div {
-  color: white;
+    color: white;
 }
 .contact-info h3 {
     color: #fce138;
@@ -231,13 +231,13 @@ section {
 }
 .contact-info p,
 .contact-info address {
-  margin: 20px 0;
-  line-height: 1.5;
-  font-size: 16px;
-  font-style: normal;
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 16px;
+    font-style: normal;
 }
 .contact-info a {
-  color: #fce138;
+    color: #fce138;
 }
 .contact-form input, 
 .contact-formtextarea {
