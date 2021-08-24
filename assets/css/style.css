@@ -201,6 +201,9 @@ section {
 .contact {
     background: #024e76;
 }
+.contact h2 {
+    color: #fce138;
+}
 .contact-title {
     font-size: 55px;
     color: #fce138;
